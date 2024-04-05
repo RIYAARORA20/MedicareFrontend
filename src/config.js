@@ -1,2 +1,2 @@
-export const BASE_URL = "https://medicarebackend-1-f999.onrender.com/";
+export const BASE_URL = "https://medicarebackend-1-f999.onrender.com";
 export const token = localStorage.getItem('token');
